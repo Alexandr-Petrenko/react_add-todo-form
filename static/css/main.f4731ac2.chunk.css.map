@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,sBAEF,CAEA,aAHE,kBAMF,CAHA,OACE,oBAEF","file":"main.f4731ac2.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.card {\n  border: 1px solid green;\n  margin-bottom: 10px;\n}\n\n.alert {\n  border: 1px solid red;\n  margin-bottom: 10px;\n}\n"]}
